@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+section {
+	width: 800px;
+	margin: 0 auto;
+}
+
+header h1 {
+	font: 32px 'Montserrat';
+	color: purple;
+	text-align: center;
+	margin-top: 30px;
+}
+
+section h4 {
+	text-align: center;
+	margin-top: 40px;
+}
+
+section p {
+	font: 16px 'Open Sans';
+	color: #bcbcbc;
+	margin-top: 20px;
+}
+
+footer p {
+	font: 12px 'Open Sans';
+	margin-top: 50px;
+	text-align: center;
+}
